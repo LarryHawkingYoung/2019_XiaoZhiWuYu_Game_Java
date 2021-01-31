@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/晓之物语/AllXiaos.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/GameConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/GameWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/MemInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/MusicFiles.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/MusicThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/OpenFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/PlayerA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/PlayerB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/UpdateThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/Winner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/晓之物语/selectMem.java" charset="GBK" />
+  </component>
+</project>
